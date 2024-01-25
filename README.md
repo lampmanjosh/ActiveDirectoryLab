@@ -38,18 +38,6 @@ Feel free to follow along and explore the world of network administration, cyber
 
 
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Active Directory HomeLab: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="TBD"/>
-<br />
-<br />
-TBD:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="TBD"/>
-<br />
-
-
 <!--
  ```diff
 - text in red
