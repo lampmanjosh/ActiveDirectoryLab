@@ -1,6 +1,6 @@
 <h1>Active Directory Setup with pfSense on ESXi</h1>
 
- ### [Writeup](Installing Baseline Active Directory on Two Windows 10 Hosts with ESXi.docx)
+ ### [Writeup](https://github.com/lampmanjosh/ActiveDirectoryLab/blob/70fa06608ba9cd13ca761325ece60d0bd7b52bed/Installing%20Baseline%20Active%20Directory%20on%20Two%20Windows%2010%20Hosts%20with%20ESXi.docx)
 
 <h2>Description</h2>
 Welcome to the Active Directory Lab Setup Guide with pfSense on ESXi, featuring two Windows 10 hosts. This comprehensive guide is designed for learning purposes, providing a step-by-step walkthrough to establish a baseline Active Directory environment in an ESXi virtualization platform. The inclusion of pfSense enhances the security of the lab, creating a segmented network to shield your home network from potential malicious activities.
