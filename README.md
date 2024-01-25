@@ -12,55 +12,32 @@ Feel free to follow along and explore the world of network administration, cyber
 
 <h2>Lab Requirements for Active Directory Setup with pfSense on ESXi</h2>
 
-  <ol>
-    <li>
-      <strong>ESXi Installation:</strong>
-      <p>ESXi installed on a host machine.</p>
-    </li>
+## Lab Requirements for Active Directory Setup with pfSense on ESXi
 
-    <li>
-      <strong>Remote Console:</strong>
-      <p>Download and install VMRC for better remote console access to ESXi VMs.</p>
-    </li>
+<ol>
+  <li><strong>ESXi Installation:</strong> ESXi installed on a host machine.</li>
 
-    <li>
-      <strong>Firewall Solution:</strong>
-      <p>pfSense: Download the pfSense ISO from the pfSense website.</p>
-    </li>
+  <li><strong>Remote Console:</strong> Download and install VMRC for better remote console access to ESXi VMs.</li>
 
-    <li>
-      <strong>Operating Systems:</strong>
-      <p>
-        <ul>
-          <li>Windows Server 2022: Download the 64-bit ISO from the <a
-              href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022">Microsoft Evaluation Center</a>.</li>
-          <li>Windows 10: Download the 64-bit ISO from the <a
-              href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise">Microsoft Evaluation
-              Center</a>.</li>
-        </ul>
-      </p>
-    </li>
+  <li><strong>Firewall Solution:</strong> pfSense: Download the pfSense ISO from the [pfSense website](https://www.pfsense.org/).</li>
 
-    <li>
-      <strong>Hardware Resources:</strong>
-      <p>
-        <ul>
-          <li>RAM: 16GB to 32GB (more than 32GB is ideal).</li>
-          <li>Disk Space: 500GB of free disk space for lab setup.</li>
-        </ul>
-      </p>
-    </li>
+  <li><strong>Operating Systems:</strong>
+    <ul>
+      <li>Windows Server 2022: Download the 64-bit ISO from the [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022).</li>
+      <li>Windows 10: Download the 64-bit ISO from the [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise).</li>
+    </ul>
+  </li>
 
-    <li>
-      <strong>Function Keys Consideration:</strong>
-      <p>Be aware of potential issues with function keys (e.g., function keys, F11, etc.). Hold the function (fn) key if
-        problems arise.</p>
-    </li>
-  </ol>
+  <li><strong>Hardware Resources:</strong>
+    <ul>
+      <li>RAM: 16GB to 32GB (more than 32GB is ideal).</li>
+      <li>Disk Space: 500GB of free disk space for lab setup.</li>
+    </ul>
+  </li>
 
-</body>
+  <li><strong>Function Keys Consideration:</strong> Be aware of potential issues with function keys (e.g., function keys, F11, etc.). Hold the function (fn) key if problems arise.</li>
+</ol>
 
-</html>
 
 
 <h2>Program walk-through:</h2>
