@@ -12,8 +12,6 @@ Feel free to follow along and explore the world of network administration, cyber
 
 <h2>Lab Requirements for Active Directory Setup with pfSense on ESXi</h2>
 
-## Lab Requirements for Active Directory Setup with pfSense on ESXi
-
 <ol>
   <li><strong>ESXi Installation:</strong> ESXi installed on a host machine.</li>
 
