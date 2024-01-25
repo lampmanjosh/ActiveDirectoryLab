@@ -10,9 +10,8 @@ In this guide, we'll cover the installation and configuration of pfSense as a DH
 Feel free to follow along and explore the world of network administration, cybersecurity, and virtualization. Let's dive into the exciting realm of Active Directory and enhance our skills together!
 <br />
 
+<h2>Lab Requirements for Active Directory Setup with pfSense on ESXi</h2>
 
-
-<h2>Requirements for Active Directory Setup with pfSense on ESXi</h2>
   <ol>
     <li>
       <strong>ESXi Installation:</strong>
